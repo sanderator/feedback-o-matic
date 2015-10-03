@@ -36,7 +36,7 @@ def read_the_file(filename):
                     csv_writer.writerow(line)
                 csv_writer.writerow(luser)
                 write_csv_file.close()
-            input()
+            #input()
 
 
 def main():
